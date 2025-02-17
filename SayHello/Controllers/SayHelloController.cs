@@ -7,6 +7,8 @@ namespace SayHello.Controllers
 		public void SayHello()
 		{
             Console.WriteLine("Say hello");
+            //new commits:
+            Console.WriteLine("Hello");
 		}
 	}
 }
